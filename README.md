@@ -1,5 +1,7 @@
 # Machine Learning // Natural Language Processing
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tbsv/ML_natural-language-processing/master?filepath=nlp_solution.ipynb)
+
 ## Data Science / Machine Learning example
 This is Binder-compatible repo with a `requirements.txt` file.
 
